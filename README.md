@@ -1,5 +1,5 @@
 # Stats220
-* **The purpose of this repo is to explain why this exists**
+* ## **The purpose of this repo is to explain why this exists**
 * *This exists solely to tick of the boxes for the assignment which include*
 1. use of two different levels of headers
 2. use of two different types of bullet points (ordered or unordered)
