@@ -4,4 +4,4 @@
 1. use of two different levels of headers
 2. use of two different types of bullet points (ordered or unordered)
 3. use of **bold** and *italics*
-4. use of links to other ![websites](https://www.youtube.com/)
+4. use of links to other [websites](https://www.youtube.com/)
